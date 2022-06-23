@@ -13,3 +13,4 @@ add execute permission to all subdirectories of the current directory for the ow
 creates a directory called my_dir with permissions 751
 change group owner to school for the file hello
 change vincent to betty and the group owner to staff
+change owner and group owner of file to vincent and staff
