@@ -9,3 +9,4 @@ add execution permission to owner, group owner, and users
 change file permision to owner no permissions, group no permissions, other all permissions
 change permission to -rwxr-x-wx
 set mode of the file hello the same as olleh's mode
+add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
