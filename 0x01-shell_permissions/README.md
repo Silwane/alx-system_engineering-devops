@@ -11,3 +11,4 @@ change permission to -rwxr-x-wx
 set mode of the file hello the same as olleh's mode
 add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 creates a directory called dir_holberton with permissions 751
+change group owner to holberton for the file hello
