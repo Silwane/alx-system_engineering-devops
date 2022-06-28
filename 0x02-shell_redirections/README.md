@@ -25,3 +25,4 @@ Write a script that displays all users and their home directories, sorted by use
  2 files changed, 3 insertions(+)
  create mode 100755 0x02-shell_redirections/22-users_and_homes
 Write a command that finds all empty files and directories in the current directory and all sub-directories
+Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
